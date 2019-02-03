@@ -1,0 +1,14 @@
+C:\Users\Adrian\source\repos\Algorytmy2\Algorytmy2\bin\Debug\Algorytmy2.exe.config
+C:\Users\Adrian\source\repos\Algorytmy2\Algorytmy2\bin\Debug\Algorytmy2.exe
+C:\Users\Adrian\source\repos\Algorytmy2\Algorytmy2\bin\Debug\Algorytmy2.pdb
+C:\Users\Adrian\source\repos\Algorytmy2\Algorytmy2\obj\Debug\Algorytmy2.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\Algorytmy2\Algorytmy2\obj\Debug\Algorytmy2.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Algorytmy2\Algorytmy2\obj\Debug\Algorytmy2.exe
+C:\Users\Adrian\source\repos\Algorytmy2\Algorytmy2\obj\Debug\Algorytmy2.pdb
+C:\Users\Adrian\source\repos\Algorytmy3\Algorytmy2\bin\Debug\Algorytmy2.exe.config
+C:\Users\Adrian\source\repos\Algorytmy3\Algorytmy2\bin\Debug\Algorytmy2.exe
+C:\Users\Adrian\source\repos\Algorytmy3\Algorytmy2\bin\Debug\Algorytmy2.pdb
+C:\Users\Adrian\source\repos\Algorytmy3\Algorytmy2\obj\Debug\Algorytmy2.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\Algorytmy3\Algorytmy2\obj\Debug\Algorytmy2.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Algorytmy3\Algorytmy2\obj\Debug\Algorytmy2.exe
+C:\Users\Adrian\source\repos\Algorytmy3\Algorytmy2\obj\Debug\Algorytmy2.pdb
